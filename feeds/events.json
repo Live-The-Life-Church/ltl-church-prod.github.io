@@ -1,0 +1,938 @@
+[
+  {
+    "id": "234866755",
+    "title": "9 AM Service",
+    "startsAt": "2026-09-06T14:00:00Z",
+    "endsAt": "2026-09-06T15:00:00Z",
+    "date": "SEP 06",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866755",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866912",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-09-06T15:30:00Z",
+    "endsAt": "2026-09-06T16:30:00Z",
+    "date": "SEP 06",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866912",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867087",
+    "title": "12 PM Service",
+    "startsAt": "2026-09-06T17:00:00Z",
+    "endsAt": "2026-09-06T18:00:00Z",
+    "date": "SEP 06",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867087",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "188319527",
+    "title": "LTL Youth",
+    "startsAt": "2026-09-09T23:30:00Z",
+    "endsAt": "2026-09-10T01:30:00Z",
+    "date": "SEP 09",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/188319527",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "LTL Youth"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Wednesday"
+  },
+  {
+    "id": "234866756",
+    "title": "9 AM Service",
+    "startsAt": "2026-09-13T14:00:00Z",
+    "endsAt": "2026-09-13T15:00:00Z",
+    "date": "SEP 13",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866756",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866913",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-09-13T15:30:00Z",
+    "endsAt": "2026-09-13T16:30:00Z",
+    "date": "SEP 13",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866913",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867088",
+    "title": "12 PM Service",
+    "startsAt": "2026-09-13T17:00:00Z",
+    "endsAt": "2026-09-13T18:00:00Z",
+    "date": "SEP 13",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867088",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "188319528",
+    "title": "LTL Youth",
+    "startsAt": "2026-09-16T23:30:00Z",
+    "endsAt": "2026-09-17T01:30:00Z",
+    "date": "SEP 16",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/188319528",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "LTL Youth"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Wednesday"
+  },
+  {
+    "id": "234866757",
+    "title": "9 AM Service",
+    "startsAt": "2026-09-20T14:00:00Z",
+    "endsAt": "2026-09-20T15:00:00Z",
+    "date": "SEP 20",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866757",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866914",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-09-20T15:30:00Z",
+    "endsAt": "2026-09-20T16:30:00Z",
+    "date": "SEP 20",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866914",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867089",
+    "title": "12 PM Service",
+    "startsAt": "2026-09-20T17:00:00Z",
+    "endsAt": "2026-09-20T18:00:00Z",
+    "date": "SEP 20",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867089",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "188319529",
+    "title": "LTL Youth",
+    "startsAt": "2026-09-23T23:30:00Z",
+    "endsAt": "2026-09-24T01:30:00Z",
+    "date": "SEP 23",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/188319529",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "LTL Youth"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Wednesday"
+  },
+  {
+    "id": "234866758",
+    "title": "9 AM Service",
+    "startsAt": "2026-09-27T14:00:00Z",
+    "endsAt": "2026-09-27T15:00:00Z",
+    "date": "SEP 27",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866758",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866915",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-09-27T15:30:00Z",
+    "endsAt": "2026-09-27T16:30:00Z",
+    "date": "SEP 27",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866915",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867090",
+    "title": "12 PM Service",
+    "startsAt": "2026-09-27T17:00:00Z",
+    "endsAt": "2026-09-27T18:00:00Z",
+    "date": "SEP 27",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867090",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867575",
+    "title": "Field of Faith",
+    "startsAt": "2026-09-30T23:30:00Z",
+    "endsAt": "2026-10-01T01:30:00Z",
+    "date": "SEP 30",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Hornet Stadium",
+    "address": "7173 FM1628\nSan Antonio, TX 78263",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867575",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Events"
+    ],
+    "recurring": false,
+    "recurrenceDescription": "Does not repeat"
+  },
+  {
+    "id": "234866759",
+    "title": "9 AM Service",
+    "startsAt": "2026-10-04T14:00:00Z",
+    "endsAt": "2026-10-04T15:00:00Z",
+    "date": "OCT 04",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866759",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866916",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-10-04T15:30:00Z",
+    "endsAt": "2026-10-04T16:30:00Z",
+    "date": "OCT 04",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866916",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867091",
+    "title": "12 PM Service",
+    "startsAt": "2026-10-04T17:00:00Z",
+    "endsAt": "2026-10-04T18:00:00Z",
+    "date": "OCT 04",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867091",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "188319531",
+    "title": "LTL Youth",
+    "startsAt": "2026-10-07T23:30:00Z",
+    "endsAt": "2026-10-08T01:30:00Z",
+    "date": "OCT 07",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/188319531",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "LTL Youth"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Wednesday"
+  },
+  {
+    "id": "234866760",
+    "title": "9 AM Service",
+    "startsAt": "2026-10-11T14:00:00Z",
+    "endsAt": "2026-10-11T15:00:00Z",
+    "date": "OCT 11",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866760",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866917",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-10-11T15:30:00Z",
+    "endsAt": "2026-10-11T16:30:00Z",
+    "date": "OCT 11",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866917",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867092",
+    "title": "12 PM Service",
+    "startsAt": "2026-10-11T17:00:00Z",
+    "endsAt": "2026-10-11T18:00:00Z",
+    "date": "OCT 11",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867092",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "188319532",
+    "title": "LTL Youth",
+    "startsAt": "2026-10-14T23:30:00Z",
+    "endsAt": "2026-10-15T01:30:00Z",
+    "date": "OCT 14",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/188319532",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "LTL Youth"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Wednesday"
+  },
+  {
+    "id": "234866761",
+    "title": "9 AM Service",
+    "startsAt": "2026-10-18T14:00:00Z",
+    "endsAt": "2026-10-18T15:00:00Z",
+    "date": "OCT 18",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866761",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866918",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-10-18T15:30:00Z",
+    "endsAt": "2026-10-18T16:30:00Z",
+    "date": "OCT 18",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866918",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867093",
+    "title": "12 PM Service",
+    "startsAt": "2026-10-18T17:00:00Z",
+    "endsAt": "2026-10-18T18:00:00Z",
+    "date": "OCT 18",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867093",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "188319533",
+    "title": "LTL Youth",
+    "startsAt": "2026-10-21T23:30:00Z",
+    "endsAt": "2026-10-22T01:30:00Z",
+    "date": "OCT 21",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/188319533",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "LTL Youth"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Wednesday"
+  },
+  {
+    "id": "234866762",
+    "title": "9 AM Service",
+    "startsAt": "2026-10-25T14:00:00Z",
+    "endsAt": "2026-10-25T15:00:00Z",
+    "date": "OCT 25",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866762",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866919",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-10-25T15:30:00Z",
+    "endsAt": "2026-10-25T16:30:00Z",
+    "date": "OCT 25",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866919",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867094",
+    "title": "12 PM Service",
+    "startsAt": "2026-10-25T17:00:00Z",
+    "endsAt": "2026-10-25T18:00:00Z",
+    "date": "OCT 25",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867094",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "188319534",
+    "title": "LTL Youth",
+    "startsAt": "2026-10-28T23:30:00Z",
+    "endsAt": "2026-10-29T01:30:00Z",
+    "date": "OCT 28",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/188319534",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "LTL Youth"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Wednesday"
+  },
+  {
+    "id": "234866763",
+    "title": "9 AM Service",
+    "startsAt": "2026-11-01T15:00:00Z",
+    "endsAt": "2026-11-01T16:00:00Z",
+    "date": "NOV 01",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866763",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866920",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-11-01T16:30:00Z",
+    "endsAt": "2026-11-01T17:30:00Z",
+    "date": "NOV 01",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866920",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867095",
+    "title": "12 PM Service",
+    "startsAt": "2026-11-01T18:00:00Z",
+    "endsAt": "2026-11-01T19:00:00Z",
+    "date": "NOV 01",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867095",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "188319535",
+    "title": "LTL Youth",
+    "startsAt": "2026-11-05T00:30:00Z",
+    "endsAt": "2026-11-05T02:30:00Z",
+    "date": "NOV 04",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/188319535",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "LTL Youth"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Wednesday"
+  },
+  {
+    "id": "234866764",
+    "title": "9 AM Service",
+    "startsAt": "2026-11-08T15:00:00Z",
+    "endsAt": "2026-11-08T16:00:00Z",
+    "date": "NOV 08",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866764",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866921",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-11-08T16:30:00Z",
+    "endsAt": "2026-11-08T17:30:00Z",
+    "date": "NOV 08",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866921",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867096",
+    "title": "12 PM Service",
+    "startsAt": "2026-11-08T18:00:00Z",
+    "endsAt": "2026-11-08T19:00:00Z",
+    "date": "NOV 08",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867096",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "188319536",
+    "title": "LTL Youth",
+    "startsAt": "2026-11-12T00:30:00Z",
+    "endsAt": "2026-11-12T02:30:00Z",
+    "date": "NOV 11",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/188319536",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "LTL Youth"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Wednesday"
+  },
+  {
+    "id": "234866765",
+    "title": "9 AM Service",
+    "startsAt": "2026-11-15T15:00:00Z",
+    "endsAt": "2026-11-15T16:00:00Z",
+    "date": "NOV 15",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866765",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866922",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-11-15T16:30:00Z",
+    "endsAt": "2026-11-15T17:30:00Z",
+    "date": "NOV 15",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866922",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867097",
+    "title": "12 PM Service",
+    "startsAt": "2026-11-15T18:00:00Z",
+    "endsAt": "2026-11-15T19:00:00Z",
+    "date": "NOV 15",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867097",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "188319537",
+    "title": "LTL Youth",
+    "startsAt": "2026-11-19T00:30:00Z",
+    "endsAt": "2026-11-19T02:30:00Z",
+    "date": "NOV 18",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/188319537",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "LTL Youth"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Wednesday"
+  },
+  {
+    "id": "234866766",
+    "title": "9 AM Service",
+    "startsAt": "2026-11-22T15:00:00Z",
+    "endsAt": "2026-11-22T16:00:00Z",
+    "date": "NOV 22",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866766",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866923",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-11-22T16:30:00Z",
+    "endsAt": "2026-11-22T17:30:00Z",
+    "date": "NOV 22",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866923",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867098",
+    "title": "12 PM Service",
+    "startsAt": "2026-11-22T18:00:00Z",
+    "endsAt": "2026-11-22T19:00:00Z",
+    "date": "NOV 22",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867098",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "188319538",
+    "title": "LTL Youth",
+    "startsAt": "2026-11-26T00:30:00Z",
+    "endsAt": "2026-11-26T02:30:00Z",
+    "date": "NOV 25",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/188319538",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "LTL Youth"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Wednesday"
+  },
+  {
+    "id": "234866767",
+    "title": "9 AM Service",
+    "startsAt": "2026-11-29T15:00:00Z",
+    "endsAt": "2026-11-29T16:00:00Z",
+    "date": "NOV 29",
+    "time": "9:00 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866767",
+    "image": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1790834399&key=uploads%2F51795%2Fr471wna7jchi45famkjxc1dggpuj&thumb=960x540%23&signature=1a23eb3381881228a98d0a1bc720f66acc29567404cc8ace1dc73acb37ab185f",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234866924",
+    "title": "10:30 AM Service",
+    "startsAt": "2026-11-29T16:30:00Z",
+    "endsAt": "2026-11-29T17:30:00Z",
+    "date": "NOV 29",
+    "time": "10:30 AM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234866924",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "234867099",
+    "title": "12 PM Service",
+    "startsAt": "2026-11-29T18:00:00Z",
+    "endsAt": "2026-11-29T19:00:00Z",
+    "date": "NOV 29",
+    "time": "12:00 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/234867099",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "Sunday Services"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Sunday"
+  },
+  {
+    "id": "188319539",
+    "title": "LTL Youth",
+    "startsAt": "2026-12-03T00:30:00Z",
+    "endsAt": "2026-12-03T02:30:00Z",
+    "date": "DEC 02",
+    "time": "6:30 PM",
+    "description": "",
+    "location": "Live The Life Church",
+    "address": "5595 US HWY 87 E.\nSan Antonio, TX 78222",
+    "url": "https://ltl.churchcenter.com/calendar/event/188319539",
+    "image": "https://avatars.planningcenteronline.com/uploads/organization/51795-1346210301/avatar.7.png",
+    "categories": [
+      "LTL Youth"
+    ],
+    "recurring": true,
+    "recurrenceDescription": "Every Wednesday"
+  }
+]

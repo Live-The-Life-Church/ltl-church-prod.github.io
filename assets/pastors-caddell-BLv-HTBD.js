@@ -1,0 +1,1 @@
+var e=`/ltl-church-prod.github.io/assets/pastors-caddell-edK5zu6G.jpg`;export{e as t};
