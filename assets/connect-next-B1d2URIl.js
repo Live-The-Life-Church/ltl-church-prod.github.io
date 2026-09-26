@@ -1,0 +1,1 @@
+var e=`/ltl-church-prod.github.io/assets/connect-next-fnK1ARa1.jpg`;export{e as t};
