@@ -1,0 +1,1 @@
+var e=`/ltl-church-prod.github.io/assets/Kids-DoQ4rwxp.jpg`;export{e as t};
